@@ -32,7 +32,4 @@ A lightweight web-based application that detects whether an uploaded file is **m
    - User uploads a file
    - App predicts and displays the result
 
----
-
-## 📁 Project Structure
 
